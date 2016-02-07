@@ -1,0 +1,71 @@
+<!--
+	AUTHOR: TAYLOR ELLETT
+	PROGRAM: EVENT HANDLER FOR VARIOUS TOUCH / MOUSE / AND KEYBOARD EVENTS
+-->
+
+<html>
+<head>
+<style>
+	#display { width: 100%; height: 100%;}
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+$(document).mousedown(function(event) 
+{
+	var theTime = new Date();
+	theTime = theTime.getHours()+':'+theTime.getMinutes();
+	var xpos = event.pageX;
+	var ypos = event.pageY;
+	document.getElementById("display").innerHTML += "<p>mousedown event, X: " + xpos + ', Y: ' + ypos + ', TIME: ' + theTime + "</p>";
+	//$('#display').html('mousedown event, X: ' + xpos + ', Y: ' + ypos + ', TIME: ' + theTime); 
+});
+
+$(document).mouseup(function(event)
+{ 
+	var theTime = new Date();
+	theTime = theTime.getHours()+':'+theTime.getMinutes();
+	var xpos = event.pageX;
+	var ypos = event.pageY;
+	document.getElementById("display").innerHTML += "<p>mouseup event, X: " + xpos + ', Y: ' + ypos + ', TIME: ' + theTime + "</p>";
+	//$('#display').html('mouseup event, X: ' + xpos + ', Y: ' + ypos + ', TIME: ' + theTime); 
+});
+$(document).keydown(function(event)
+{
+	var theTime = new Date();
+	theTime = theTime.getHours()+':'+theTime.getMinutes();
+	key = String.fromCharCode(event.which);
+	document.getElementById("display").innerHTML += "<p>keydown event, KEY: " + key + ', TIME: ' + theTime + "</p>";
+	//$('#display').html('keydown event, KEY: ' + key + ', TIME: ' + theTime);	    
+});
+$(document).keyup(function(event)
+{
+	var theTime = new Date();
+	theTime = theTime.getHours()+':'+theTime.getMinutes();
+	key = String.fromCharCode(event.which);
+	document.getElementById("display").innerHTML += "<p>keyup event, KEY: " + key + ', TIME: ' + theTime + "</p>";
+	//$('#display').html('keyup event, KEY: ' + key + ', TIME: ' + theTime);	  
+});
+window.addEventListener('load', function()
+{
+    document.body.addEventListener('touchstart', function(e){
+    	var theTime = new Date();
+	theTime = theTime.getHours()+':'+theTime.getMinutes();
+    	document.getElementById("display").innerHTML += "<p>touchstart event, X: " + e.changedTouches[0].pageX + ', Y: ' + e.changedTouches[0].pageY + ' TIME: ' + theTime + "</p>";
+    }, false)
+    document.body.addEventListener('touchend', function(e){
+    	var theTime = new Date();
+	theTime = theTime.getHours()+':'+theTime.getMinutes();
+    	document.getElementById("display").innerHTML += "<p>touchend event, X: " + e.changedTouches[0].pageX + ', Y: ' + e.changedTouches[0].pageY + ' TIME: ' + theTime  + "</p>";
+    }, false)
+    document.body.addEventListener('touchmove', function(e){
+    	var theTime = new Date();
+	theTime = theTime.getHours()+':'+theTime.getMinutes();
+    	document.getElementById("display").innerHTML += "<p>touchmove event, X: " + e.changedTouches[0].pageX + ', Y: ' + e.changedTouches[0].pageY + ' TIME: ' + theTime  + "</p>";
+    }, false)
+}, false)
+</script>
+</head>
+<body>
+	<div id="display"></div>
+</body>
+</html>

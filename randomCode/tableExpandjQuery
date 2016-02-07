@@ -1,0 +1,43 @@
+tr {
+    display: none;
+}
+tr.header {
+    display: table-row;
+}
+
+<table border="0">
+    <tr class="header">
+        <td>Header</td>
+        <td>Hello</td>
+        <td>fuck you</td>
+    </tr>
+    <tr>
+        <td>data</td>
+        <td>data</td>
+    </tr>
+    <tr>
+        <td>data</td>
+        <td>data</td>
+    </tr>
+    <tr class="header">
+        <td>Header</td>
+    </tr>
+    <tr>
+        <td>date</td>
+        <td>data</td>
+    </tr>
+    <tr>
+        <td>data</td>
+        <td>data</td>
+    </tr>
+    <tr>
+        <td>data</td>
+        <td>data</td>
+    </tr>
+</table>
+
+$('tr.header').click(function () {
+    $(this).nextUntil('tr.header').css('display', function (i, v) {
+        return this.style.display === 'table-row' ? 'none' : 'table-row';
+    });
+});

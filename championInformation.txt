@@ -1,0 +1,1596 @@
+{
+    "Aatrox": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":8,
+        "DEFENSE":4,
+        "AP":3,
+		"BUILDS": {
+		    "TOP":"3153+3047+3143+3065+3075+3035",
+			"JUNGLE":"3706+3143+3047+3072+3156+3065"
+		}
+    },
+
+    "Ahri": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Assassin",
+        "ROLE":"MID",
+        "AD":3,
+        "DEFENSE":4,
+        "AP":8,
+		"BUILDS": {
+		    "MID":"3165+3020+3285+3089+3135+3157"
+		}
+    },
+
+    "Akali": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"N/A",
+        "ROLE":"TOP+MID",
+        "AD":5,
+        "DEFENSE":3,
+        "AP":8,
+		"BUILDS": {
+		    "TOP":"3146+3020+3157+3089+3285+3135",
+            "MID":"3146+3020+3157+3089+3135+3001"
+        }
+    },
+
+    "Alistar": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"N/A",
+        "ROLE":"BOT_SUPP",
+        "AD":6,
+        "DEFENSE":9,
+        "AP":5,
+        "BUILDS": {
+            "BOT_SUPP":"2049+3117+3401+3800+3110+3190"
+        }
+    },
+
+    "Amumu": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Mage",
+        "ROLE":"JUNGLE",
+        "AD":2,
+        "DEFENSE":6,
+        "AP":8,
+        "BUILDS": {
+            "JUNGLE":"3725+3047+3800+3110+3075+3083"
+        }
+    },
+
+    "Anivia": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Support",
+        "ROLE":"MID",
+        "AD":1,
+        "DEFENSE":4,
+        "AP":10,
+        "BUILDS": {
+            "MID":"3027+3020+3003+3089+3135+3157"
+        }
+    },
+
+    "Annie": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"N/A",
+        "ROLE":"BOT_SUPP",
+        "AD":2,
+        "DEFENSE":3,
+        "AP":10,
+        "BUILDS": {
+		    "MID":"3027+3020+3285+3089+3135+3157",
+            "BOT_SUPP":"2049+3117+3092+3285+3089+3135"
+        }
+    },
+
+    "Ashe": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"Support",
+        "ROLE":"BOT_AD",
+        "AD":7,
+        "DEFENSE":3,
+        "AP":2,
+        "BUILDS": {
+            "BOT_AD":"3031+3006+3046+3035+3072+3026"
+        }
+    },
+
+    "Azir": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Marksman",
+        "ROLE":"MID",
+        "AD":6,
+        "DEFENSE":3,
+        "AP":8,
+        "BUILDS": {
+            "MID":"3165+3020+3089+3135+3157+3285"
+        }
+    },
+
+    "Bard": {
+        "PRIMARY":"Support",
+        "SECONDARY":"Mage",
+        "ROLE":"BOT_SUPP",
+        "AD":4,
+        "DEFENSE":4,
+        "AP":5,
+        "BUILDS": {
+            "BOT_SUPP":"2045+3117+3092+3110+3102+3026"
+        }
+    },
+
+    "Blitzcrank": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Fighter",
+        "ROLE":"BOT_SUPP",
+        "AD":4,
+        "DEFENSE":8,
+        "AP":5,
+        "BUILDS": {
+            "BOT_SUPP":"2049+3117+3401+3800+3110+3190"
+        }
+    },
+
+    "Brand": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"N/A",
+        "ROLE":"MID",
+        "AD":2,
+        "DEFENSE":2,
+        "AP":9,
+        "BUILDS": {
+            "MID":"3020+3151+3285+3089+3157+3135",
+			"BOT_SUPP":"2049+3020+3151+3116+3135+3165"
+        }
+    },
+
+    "Braum": {
+        "PRIMARY":"Support",
+        "SECONDARY":"Tank",
+        "ROLE":"BOT_SUPP",
+        "AD":3,
+        "DEFENSE":9,
+        "AP":4,
+        "BUILDS": {
+            "BOT_SUPP":"2049+3117+3401+3190+3110+3800"
+        }
+    },
+
+    "Caitlyn": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"N/A",
+        "ROLE":"BOT_AD",
+        "AD":8,
+        "DEFENSE":2,
+        "AP":2,
+        "BUILDS": {
+            "BOT_AD":"3031+3006+3046+3035+3072+3026"
+        }
+    },
+
+    "Cassiopeia": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"N/A",
+        "ROLE":"MID",
+        "AD":2,
+        "DEFENSE":3,
+        "AP":9,
+        "BUILDS": {
+            "MID":"3020+3285+3003+3157+3135+3089"
+        }
+    },
+
+    "Cho'Gath": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Mage",
+        "ROLE":"JUNGLE+TOP+MID",
+        "AD":3,
+        "DEFENSE":7,
+        "AP":7,
+        "BUILDS": {
+            "JUNGLE":"3706+3111+3027+3065+3110+3026",
+            "TOP":"3027+3089+3157+3135+3174+3020",
+            "MID":"3027+3111+3089+3110+3001+3285"
+        }
+    },
+
+    "Corki": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"N/A",
+        "ROLE":"BOT_AD",
+        "AD":8,
+        "DEFENSE":3,
+        "AP":6,
+        "BUILDS": {
+            "BOT_AD":"3078+3020+3031+3035+3072+3026"
+        }
+    },
+
+    "Darius": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"TOP",
+        "AD":9,
+        "DEFENSE":5,
+        "AP":1,
+        "BUILDS": {
+            "TOP":"3074+3111+3143+3102+3071+3078"
+        }
+    },
+
+    "Diana": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Mage",
+        "ROLE":"JUNGLE+TOP",
+        "AD":7,
+        "DEFENSE":6,
+        "AP":8,
+        "BUILDS": {
+            "JUNGLE":"3724+3020+3285+3157+3089+3135",
+            "TOP":"3020+3157+3001+3135+3089+3100",
+			"MID":"3001+3020+3157+3089+3135+3285"
+        }
+    },
+
+    "Dr. Mundo": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":5,
+        "DEFENSE":7,
+        "AP":6,
+        "BUILDS": {
+            "JUNGLE":"3713+3065+3083+3143+3102+3047",
+            "TOP":"3068+3047+3065+3083+3075+3151"
+        }
+    },
+
+    "Draven": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"N/A",
+        "ROLE":"BOT_AD",
+        "AD":9,
+        "DEFENSE":3,
+        "AP":1,
+        "BUILDS": {
+            "BOT_AD":"3031+3006+3046+3035+3072+3026"
+        }
+    },
+
+    "Ekko": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Fighter",
+        "ROLE":"TOP+MID",
+        "AD":5,
+        "DEFENSE":3,
+        "AP":7,
+        "BUILDS": {
+            "TOP":"3027+3158+3001+3151+3116+3143",
+            "MID":"3100+3285+3089+3135+3116+3157"
+        }
+    },
+
+    "Elise": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":6,
+        "DEFENSE":5,
+        "AP":7,
+        "BUILDS": {
+            "JUNGLE":"3709+3020+3143+3001+3116+3151",
+            "TOP":"3020+3151+3001+3110+3135+3068"
+        }
+    },
+
+    "Evelynn": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Mage",
+        "ROLE":"JUNGLE+MID",
+        "AD":4,
+        "DEFENSE":2,
+        "AP":7,
+        "BUILDS": {
+            "JUNGLE":"3707+3117+3143+3102+3025+3075",
+            "MID":"3117+3151+3116+3089+3157+3100"
+        }
+    },
+
+    "Ezreal": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"Mage",
+        "ROLE":"BOT_AD",
+        "AD":7,
+        "DEFENSE":2,
+        "AP":6,
+        "BUILDS": {
+		    "MID":"3004+3158+3078+3035+3072+3139",
+            "BOT_AD":"3004+3158+3078+3035+3072+3139"
+        }
+    },
+
+    "Fiddlesticks": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Support",
+        "ROLE":"JUNGLE+BOT_SUPP",
+        "AD":2,
+        "DEFENSE":3,
+        "AP":9,
+        "BUILDS": {
+            "JUNGLE":"3708+3020+3157+3089+3135+3285",
+            "BOT_SUPP":"3151+3157+3152+3001+3089+3020"
+        }
+    },
+
+    "Fiora": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Assassin",
+        "ROLE":"JUNGLE+TOP",
+        "AD":10,
+        "DEFENSE":4,
+        "AP":2,
+        "BUILDS": {
+            "JUNGLE":"3713+3074+3071+3072+3047+3143",
+            "TOP":"3074+3006+3035+3142+3072+3139"
+        }
+    },
+
+    "Fizz": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Fighter",
+        "ROLE":"TOP+MID",
+        "AD":6,
+        "DEFENSE":4,
+        "AP":7,
+        "BUILDS": {
+            "TOP":"3100+3020+3157+3089+3135+3026",
+            "MID":"3100+3020+3157+3089+3135+3026"
+        }
+    },
+
+    "Galio": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Mage",
+        "ROLE":"JUNGLE+MID+BOT_SUPP",
+        "AD":3,
+        "DEFENSE":7,
+        "AP":6,
+        "BUILDS": {
+            "JUNGLE":"3706+3111+3174+3065+3001+3083",
+            "MID":"3174+3111+3001+3157+3089+3135",
+            "BOT_SUPP":"2045+3401+3110+3001+3065+3111"
+        }
+    },
+
+    "Gangplank": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Support",
+        "ROLE":"JUNGLE+TOP",
+        "AD":7,
+        "DEFENSE":6,
+        "AP":4,
+        "BUILDS": {
+            "JUNGLE":"3713+3087+3031+3074+3078+3006",
+            "TOP":"3087+3047+3078+3031+3035+3083"
+        }
+    },
+
+    "Garen": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"TOP",
+        "AD":7,
+        "DEFENSE":7,
+        "AP":1,
+        "BUILDS": {
+            "TOP":"3068+3111+3071+3065+3143+3156"
+        }
+    },
+
+    "Gnar": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Marksman",
+        "ROLE":"TOP",
+        "AD":6,
+        "DEFENSE":5,
+        "AP":5,
+        "BUILDS": {
+            "TOP":"3071+3111+3143+3065+3075+3083"
+        }
+    },
+
+    "Gragas": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Mage",
+        "ROLE":"JUNGLE+TOP+MID",
+        "AD":4,
+        "DEFENSE":7,
+        "AP":6,
+        "BUILDS": {
+            "JUNGLE":"3725+3111+3800+3110+3065+3075",
+            "TOP":"3100+3020+3165+3089+3157+3151",
+            "MID":"3100+3020+3165+3089+3157+3151"
+        }
+    },
+
+    "Graves": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"N/A",
+        "ROLE":"BOT_AD",
+        "AD":8,
+        "DEFENSE":5,
+        "AP":3,
+        "BUILDS": {
+            "BOT_AD":"3031+3006+3046+3035+3072+3026"
+        }
+    },
+
+    "Hecarim": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":8,
+        "DEFENSE":6,
+        "AP":4,
+        "BUILDS": {
+            "JUNGLE":"3717+3117+3078+3143+3065+3110",
+            "TOP":"3047+3078+3110+3065+3075+3102"
+        }
+    },
+
+    "Heimerdinger": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Support",
+        "ROLE":"TOP+MID",
+        "AD":2,
+        "DEFENSE":6,
+        "AP":8,
+        "BUILDS": {
+            "TOP":"3157+3020+3165+3135+3089+3151",
+            "MID":"3157+3020+3165+3089+3135+3026",
+            "BOT_SUPP":"2045+3285+3089+3135+3020+3151"
+        }
+    },
+
+    "Irelia": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Assassin",
+        "ROLE":"TOP",
+        "AD":7,
+        "DEFENSE":4,
+        "AP":5,
+        "BUILDS": {
+            "TOP":"3078+3111+3143+3065+3153+3026"
+        }
+    },
+
+    "Janna": {
+        "PRIMARY":"Support",
+        "SECONDARY":"Mage",
+        "ROLE":"BOT_SUPP",
+        "AD":3,
+        "DEFENSE":5,
+        "AP":7,
+        "BUILDS": {
+            "MID":"3174+3020+3165+3089+3157+3100",
+            "BOT_SUPP":"2049+3117+3069+3222+3190+3110"
+        }
+    },
+
+    "Jarvan IV": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":6,
+        "DEFENSE":8,
+        "AP":3,
+        "BUILDS": {
+            "JUNGLE":"3707+3117+3143+3102+3190+3075",
+            "TOP":"3074+3111+3071+3143+3102+3026"
+        }
+    },
+
+    "Jax": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Assassin",
+        "ROLE":"JUNGLE+TOP",
+        "AD":7,
+        "DEFENSE":5,
+        "AP":7,
+        "BUILDS": {
+            "JUNGLE":"3722+3047+3153+3143+3102+3026",
+            "TOP":"3078+3111+3153+3143+3102+3026"
+        }
+    },
+
+    "Jayce": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Marksman",
+        "ROLE":"TOP+MID",
+        "AD":8,
+        "DEFENSE":4,
+        "AP":3,
+        "BUILDS": {
+            "TOP":"3004+3158+3035+3071+3142+3143",
+            "MID":"3004+3158+3035+3142+3072+3156"
+        }
+    },
+
+    "Jinx": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"N/A",
+        "ROLE":"BOT_AD",
+        "AD":9,
+        "DEFENSE":2,
+        "AP":4,
+        "BUILDS": {
+            "BOT_AD":"3031+3006+3046+3035+3072+3026"
+        }
+    },
+
+    "Kalista": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"N/A",
+        "ROLE":"BOT_AD",
+        "AD":8,
+        "DEFENSE":2,
+        "AP":4,
+        "BUILDS": {
+            "BOT_AD":"3006+3072+3085+3035+3153+3139"
+        }
+    },
+
+    "Karma": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Support",
+        "ROLE":"MID+BOT_SUPP",
+        "AD":1,
+        "DEFENSE":7,
+        "AP":8,
+        "BUILDS": {
+            "MID":"3165+3020+3285+3089+3157+3135",
+            "BOT_SUPP":"2049+3092+3020+3165+3151+3089"
+        }
+    },
+
+    "Karthus": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"N/A",
+        "ROLE":"TOP+MID",
+        "AD":2,
+        "DEFENSE":2,
+        "AP":10,
+        "BUILDS": {
+            "TOP":"3027+3020+3003+3089+3135+3157",
+            "MID":"3027+3020+3003+3089+3135+3151"
+        }
+    },
+
+    "Kassadin": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Mage",
+        "ROLE":"MID",
+        "AD":3,
+        "DEFENSE":5,
+        "AP":8,
+        "BUILDS": {
+		    "TOP":"3027+3020+3285+3089+3157+3135",
+            "MID":"3027+3020+3285+3157+3089+3135"
+        }
+    },
+
+    "Katarina": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Mage",
+        "ROLE":"MID",
+        "AD":4,
+        "DEFENSE":3,
+        "AP":9,
+        "BUILDS": {
+            "MID":"3285+3020+3157+3089+3135+3001"
+        }
+    },
+
+    "Kayle": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Support",
+        "ROLE":"TOP+MID",
+        "AD":6,
+        "DEFENSE":6,
+        "AP":7,
+        "BUILDS": {
+            "TOP":"3115+3020+3100+3089+3135+3085",
+            "MID":"3115+3020+3100+3285+3001+3151",
+            "BOT_SUPP":"3115+3006+3100+3116+3089+3286"
+        }
+    },
+
+    "Kennen": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Marksman",
+        "ROLE":"TOP+MID+BOT_SUPP",
+        "AD":6,
+        "DEFENSE":4,
+        "AP":7,
+        "BUILDS": {
+            "TOP":"3157+3020+3089+3135+3151+3001",
+            "MID":"3020+3157+3089+3135+3285+3151",
+            "BOT_SUPP":"2049+3020+3092+3157+3001+3116"
+        }
+    },
+
+    "Kha'Zix": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":9,
+        "DEFENSE":4,
+        "AP":3,
+        "BUILDS": {
+            "JUNGLE":"3707+3117+3074+3035+3143+3102",
+            "TOP":"3031+3117+3071+3074+3035+3026"
+            
+        }
+    },
+
+    "Kog'Maw": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"Mage",
+        "ROLE":"BOT_AD",
+        "AD":8,
+        "DEFENSE":2,
+        "AP":5,
+        "BUILDS": {
+		    "MID":"3285+3020+3003+3089+3135+3157",
+            "BOT_AD":"3078+3006+3153+3035+3031+3026"
+        }
+    },
+
+    "LeBlanc": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Mage",
+        "ROLE":"MID",
+        "AD":1,
+        "DEFENSE":4,
+        "AP":10,
+        "BUILDS": {
+            "MID":"3165+3020+3285+3089+3135+3157"
+        }
+    },
+
+    "Lee Sin": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Assassin",
+        "ROLE":"JUNGLE+TOP",
+        "AD":8,
+        "DEFENSE":5,
+        "AP":3,
+        "BUILDS": {
+            "JUNGLE":"3707+2049+3117+3143+3102+3075",
+            "TOP":"3074+2045+3035+3143+3102+3111"
+        }
+    },
+
+    "Leona": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Support",
+        "ROLE":"BOT_SUPP",
+        "AD":4,
+        "DEFENSE":8,
+        "AP":3,
+        "BUILDS": {
+            "BOT_SUPP":"2049+3117+3401+3190+3110+3102"
+        }
+    },
+
+    "Lissandra": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"N/A",
+        "ROLE":"MID",
+        "AD":2,
+        "DEFENSE":5,
+        "AP":8,
+        "BUILDS": {
+		    "TOP":"3027+3020+3157+3089+3135+3285",
+            "MID":"3027+3020+3157+3089+3135+3151"
+        }
+    },
+
+    "Lucian": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"N/A",
+        "ROLE":"BOT_AD",
+        "AD":8,
+        "DEFENSE":5,
+        "AP":3,
+        "BUILDS": {
+            "BOT_AD":"3031+3006+3087+3035+3072+3139"
+        }
+    },
+
+    "Lulu": {
+        "PRIMARY":"Support",
+        "SECONDARY":"Mage",
+        "ROLE":"TOP+MID+BOT_SUPP",
+        "AD":4,
+        "DEFENSE":5,
+        "AP":7,
+        "BUILDS": {
+		    "TOP":"3165+3020+3285+3089+3100+3135",
+            "MID":"3174+3020+3285+3089+3135+3157",
+            "BOT_SUPP":"2049+3117+3092+3222+3190+3143"
+        }
+    },
+
+    "Lux": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Support",
+        "ROLE":"MID+BOT_SUPP",
+        "AD":2,
+        "DEFENSE":4,
+        "AP":9,
+        "BUILDS": {
+            "MID":"3174+3020+3285+3089+3135+3157",
+			"BOT_SUPP":"2049+3092+3020+3285+3157+3165"
+        }
+    },
+
+    "Malphite": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":5,
+        "DEFENSE":9,
+        "AP":7,
+        "BUILDS": {
+            "JUNGLE":"3725+3047+3800+3143+3102+3075",
+            "TOP":"3068+3047+3110+3075+3083+3102"
+        }
+    },
+
+    "Malzahar": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Assassin",
+        "ROLE":"MID",
+        "AD":2,
+        "DEFENSE":2,
+        "AP":9,
+        "BUILDS": {
+            "MID":"3027+3020+3089+3135+3157+3285"
+        }
+    },
+
+    "Maokai": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Mage",
+        "ROLE":"JUNGLE+TOP",
+        "AD":3,
+        "DEFENSE":8,
+        "AP":6,
+        "BUILDS": {
+            "JUNGLE":"3725+3117+3800+3110+3065+3075",
+            "TOP":"3027+3111+3110+3065+3075+3083"
+        }
+    },
+
+    "Master Yi": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":10,
+        "DEFENSE":4,
+        "AP":2,
+        "BUILDS": {
+            "JUNGLE":"3718+3006+3153+3142+3031+3035",
+            "TOP":"3153+3006+3142+3031+3035+3046"
+            
+        }
+    },
+
+    "Miss Fortune": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"N/A",
+        "ROLE":"BOT_AD",
+        "AD":8,
+        "DEFENSE":2,
+        "AP":5,
+        "BUILDS": {
+            "BOT_AD":"3031+3006+3087+3035+3072+3026"
+        }
+    },
+
+    "Mordekaiser": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Mage",
+        "ROLE":"TOP+MID",
+        "AD":4,
+        "DEFENSE":6,
+        "AP":7,
+        "BUILDS": {
+            "TOP":"3152+3020+3157+3089+3285+3135",
+            "MID":"3152+3020+3157+3089+3135+3285"
+        }
+    },
+
+    "Morgana": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Support",
+        "ROLE":"BOT_SUPP",
+        "AD":1,
+        "DEFENSE":6,
+        "AP":8,
+        "BUILDS": {
+            "MID":"3027+3020+3157+3089+3135+3165",
+            "BOT_SUPP":"2049+3117+3092+3157+3222+3110"
+        }
+    },
+
+    "Nami": {
+        "PRIMARY":"Support",
+        "SECONDARY":"Mage",
+        "ROLE":"BOT_SUPP",
+        "AD":4,
+        "DEFENSE":3,
+        "AP":7,
+        "BUILDS": {
+            "BOT_SUPP":"2049+3117+3222+3092+3190+3110"
+        }
+    },
+
+    "Nasus": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":7,
+        "DEFENSE":5,
+        "AP":6,
+        "BUILDS": {
+            "JUNGLE":"3715+3111+3065+3110+3800+3143",
+			"TOP":"3110+3111+3065+3078+3075+3102"
+			
+        }
+    },
+
+    "Nautilus": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+BOT_SUPP",
+        "AD":4,
+        "DEFENSE":6,
+        "AP":6,
+        "BUILDS": {
+            "JUNGLE":"3717+3117+3800+3110+3143+3091",
+            "TOP":"3111+3078+3065+3110+3800+3143",
+			"BOT_SUPP":"2049+3117+3401+3800+3190+3110"
+        }
+    },
+
+    "Nidalee": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+MID",
+        "AD":5,
+        "DEFENSE":4,
+        "AP":7,
+        "BUILDS": {
+            "JUNGLE":"3724+3027+3020+3089+3135+3157",
+			"TOP":"3165+3020+3285+3089+3135+3157",
+            "MID":"3165+3285+3020+3089+3135+3157"
+        }
+    },
+
+    "Nocturne": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":9,
+        "DEFENSE":5,
+        "AP":2,
+        "BUILDS": {
+            "JUNGLE":"3717+3153+3111+3143+3102+3026",
+            "TOP":"3074+3153+3111+3142+3031+3143"
+        }
+    },
+
+    "Nunu": {
+        "PRIMARY":"Support",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP+MID+BOT_SUPP",
+        "AD":4,
+        "DEFENSE":6,
+        "AP":7,
+        "BUILDS": {
+            "JUNGLE":"3725+3117+3800+3110+3065+3075",
+            "TOP":"3020+3151+3089+3110+3190+3083",
+            "MID":"3020+3151+3089+3110+3190+3083",
+            "BOT_SUPP":"2045+3009+3401+3110+3222+3025"
+        }
+    },
+
+    "Olaf": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":9,
+        "DEFENSE":5,
+        "AP":3,
+        "BUILDS": {
+            "JUNGLE":"3709+3047+3800+3110+3065+3143",
+            "TOP":"3047+3153+3143+3065+3075+3102"
+        }
+    },
+
+    "Orianna": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Support",
+        "ROLE":"MID",
+        "AD":4,
+        "DEFENSE":3,
+        "AP":9,
+        "BUILDS": {
+            "MID":"3174+3089+3020+3135+3157+3285"
+        }
+    },
+
+    "Pantheon": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Assassin",
+        "ROLE":"JUNGLE+TOP",
+        "AD":9,
+        "DEFENSE":4,
+        "AP":3,
+        "BUILDS": {
+            "JUNGLE":"3707+3071+3111+3143+3156+3035",
+            "TOP":"3074+3047+3071+3143+3035+3139"
+        }
+    },
+
+    "Poppy": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Assassin",
+        "ROLE":"JUNGLE+TOP",
+        "AD":6,
+        "DEFENSE":6,
+        "AP":5,
+        "BUILDS": {
+            "JUNGLE":"3713+3078+3153+3158+3172+3026",
+            "TOP":"3078+3111+3153+3143+3074+3026"
+        }
+    },
+
+    "Quinn": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"Fighter",
+        "ROLE":"BOT_AD",
+        "AD":9,
+        "DEFENSE":4,
+        "AP":2,
+        "BUILDS": {
+		    "TOP":"3153+3006+3035+3087+3031+3026",
+            "BOT_AD":"3031+3006+3087+3072+3035+3026"
+        }
+    },
+
+    "Rammus": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE",
+        "AD":4,
+        "DEFENSE":10,
+        "AP":5,
+        "BUILDS": {
+            "JUNGLE":"3725+3800+3117+3075+3102+3143"
+        }
+    },
+
+    "Rek'Sai": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"N/A",
+        "ROLE":"JUNGLE",
+        "AD":8,
+        "DEFENSE":5,
+        "AP":2,
+        "BUILDS": {
+            "JUNGLE":"3709+3071+3111+3143+3075+3190"
+        }
+    },
+
+    "Renekton": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":8,
+        "DEFENSE":5,
+        "AP":2,
+        "BUILDS": {
+            "JUNGLE":"3047+3065+3143+3083+3074+3026",
+            "TOP":"3068+3111+3071+3065+3075+3512"
+        }
+    },
+
+    "Rengar": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":7,
+        "DEFENSE":4,
+        "AP":2,
+        "BUILDS": {
+            "JUNGLE":"3723+3158+3035+3142+3074+3078",
+            "TOP":"3158+3035+3142+3074+3031+3071"
+        }
+    },
+
+    "Riven": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Assassin",
+        "ROLE":"TOP",
+        "AD":8,
+        "DEFENSE":5,
+        "AP":1,
+        "BUILDS": {
+            "TOP":"3158+3074+3035+3142+3072+3026"
+        }
+    },
+
+    "Rumble": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Mage",
+        "ROLE":"TOP+MID",
+        "AD":3,
+        "DEFENSE":6,
+        "AP":8,
+        "BUILDS": {
+            "TOP":"3020+3151+3157+3116+3135+3089",
+            "MID":"3020+3151+3135+3157+3089+3116"
+        }
+    },
+
+    "Ryze": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Fighter",
+        "ROLE":"TOP+MID",
+        "AD":2,
+        "DEFENSE":2,
+        "AP":10,
+        "BUILDS": {
+            "TOP":"3027+3020+3003+3157+3135+3089",
+            "MID":"3027+3020+3003+3157+3135+3152"
+        }
+    },
+
+    "Sejuani": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":5,
+        "DEFENSE":7,
+        "AP":6,
+        "BUILDS": {
+            "JUNGLE":"3725+3800+3111+3110+3083+3102",
+            "TOP":"3027+3151+3020+3001+3110+3083"
+        }
+    },
+
+    "Shaco": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"N/A",
+        "ROLE":"JUNGLE+TOP",
+        "AD":8,
+        "DEFENSE":4,
+        "AP":6,
+        "BUILDS": {
+            "JUNGLE":"3117+3707+3074+3087+3031+3035",
+            "TOP":"3020+3165+3089+3135+3116+3102"
+        }
+    },
+
+    "Shen": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":3,
+        "DEFENSE":9,
+        "AP":3,
+        "BUILDS": {
+            "JUNGLE":"3715+3111+3143+3083+3065+3102",
+            "TOP":"3068+3111+3065+3143+3083+3075"
+        }
+    },
+
+    "Shyvana": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":8,
+        "DEFENSE":6,
+        "AP":3,
+        "BUILDS": {
+            "JUNGLE":"3709+3047+3153+3143+3065+3075",
+            "TOP":"3717+3047+3143+3075+3083+3065"
+        }
+    },
+
+    "Singed": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":4,
+        "DEFENSE":8,
+        "AP":7,
+        "BUILDS": {
+            "JUNGLE":"3715+3111+3027+3040+3151+3089",
+            "TOP":"3111+3027+3040+3151+3089+3800"
+        }
+    },
+
+    "Sion": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":5,
+        "DEFENSE":9,
+        "AP":3,
+        "BUILDS": {
+            "JUNGLE":"3709+3111+3110+3083+3065+3156",
+            "TOP":"3110+3047+3065+3083+3075+3102"
+        }
+    },
+
+    "Sivir": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"N/A",
+        "ROLE":"BOT_AD",
+        "AD":9,
+        "DEFENSE":3,
+        "AP":1,
+        "BUILDS": {
+            "BOT_AD":"3031+3006+3046+3072+3035+3102"
+        }
+    },
+
+    "Skarner": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE",
+        "AD":7,
+        "DEFENSE":6,
+        "AP":5,
+        "BUILDS": {
+            "JUNGLE":"3709+3025+3111+3110+3190+3800"
+        }
+    },
+
+    "Sona": {
+        "PRIMARY":"Support",
+        "SECONDARY":"Mage",
+        "ROLE":"BOT_SUPP",
+        "AD":5,
+        "DEFENSE":2,
+        "AP":8,
+        "BUILDS": {
+            "BOT_SUPP":"2049+3092+3158+3100+3285+3165"
+        }
+    },
+
+    "Soraka": {
+        "PRIMARY":"Support",
+        "SECONDARY":"Mage",
+        "ROLE":"BOT_SUPP",
+        "AD":2,
+        "DEFENSE":5,
+        "AP":7,
+        "BUILDS": {
+            "BOT_SUPP":"2049+3117+3069+3190+3222+3110"
+        }
+    },
+
+    "Swain": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Fighter",
+        "ROLE":"MID",
+        "AD":2,
+        "DEFENSE":6,
+        "AP":9,
+        "BUILDS": {
+		    "TOP":"3027+3157+3020+3135+3089+3116",
+            "MID":"3027+3157+3020+3089+3151+3001"
+        }
+    },
+
+    "Syndra": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Support",
+        "ROLE":"MID",
+        "AD":2,
+        "DEFENSE":3,
+        "AP":9,
+        "BUILDS": {
+            "MID":"3174+3020+3285+3089+3135+3157"
+        }
+    },
+
+    "Talon": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Fighter",
+        "ROLE":"MID",
+        "AD":9,
+        "DEFENSE":3,
+        "AP":1,
+        "BUILDS": {
+            "MID":"3117+3074+3142+3035+3031+3026"
+        }
+    },
+
+    "Taric": {
+        "PRIMARY":"Support",
+        "SECONDARY":"Fighter",
+        "ROLE":"BOT_SUPP",
+        "AD":4,
+        "DEFENSE":8,
+        "AP":5,
+        "BUILDS": {
+            "BOT_SUPP":"2049+3401+3047+3110+3800+3065"
+        }
+    },
+
+    "Teemo": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"Assassin",
+        "ROLE":"TOP+MID",
+        "AD":5,
+        "DEFENSE":3,
+        "AP":7,
+        "BUILDS": {
+            "TOP":"3020+3151+3115+3089+3135+3100",
+            "MID":"2139+3151+3089+3102+3157+3135",
+            "BOT_AD":"3153+3142+3031+3006+3035+3022"
+        }
+    },
+
+    "Thresh": {
+        "PRIMARY":"Support",
+        "SECONDARY":"Fighter",
+        "ROLE":"BOT_SUPP",
+        "AD":5,
+        "DEFENSE":6,
+        "AP":6,
+        "BUILDS": {
+            "BOT_SUPP":"2049+3117+3401+3190+3110+3800"
+        }
+    },
+
+    "Tristana": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"Assassin",
+        "ROLE":"BOT_AD",
+        "AD":9,
+        "DEFENSE":3,
+        "AP":5,
+        "BUILDS": {
+            "BOT_AD":"3031+3006+3046+3072+3035+3139"
+        }
+    },
+
+    "Trundle": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":7,
+        "DEFENSE":6,
+        "AP":2,
+        "BUILDS": {
+            "JUNGLE":"3709+3111+3143+3102+3083+3075",
+            "TOP":"3047+3153+3068+3156+3065+3143"
+        }
+    },
+
+    "Tryndamere": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Assassin",
+        "ROLE":"JUNGLE+TOP",
+        "AD":10,
+        "DEFENSE":5,
+        "AP":2,
+        "BUILDS": {
+            "JUNGLE":"3706+3111+3087+3153+3031+3026",
+            "TOP":"3153+3006+3087+3031+3035+3072"
+        }
+    },
+
+    "Twisted Fate": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"N/A",
+        "ROLE":"JUNGLE+MID",
+        "AD":6,
+        "DEFENSE":2,
+        "AP":6,
+        "BUILDS": {
+            "JUNGLE":"3713+3006+3078+3153+3031+3026",
+            "MID":"3100+3020+3285+3089+3135+3157"
+        }
+    },
+
+    "Twitch": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"Assassin",
+        "ROLE":"BOT_AD",
+        "AD":9,
+        "DEFENSE":2,
+        "AP":3,
+        "BUILDS": {
+            "BOT_AD":"3153+3142+3006+3031+3035+3026"
+        }
+    },
+
+    "Udyr": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":8,
+        "DEFENSE":7,
+        "AP":4,
+        "BUILDS": {
+            "JUNGLE":"3709+3111+3078+3110+3102+3091",
+            "TOP":"3047+3078+3172+3110+3800+3065"
+        }
+    },
+
+    "Urgot": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"Fighter",
+        "ROLE":"TOP+MID+BOT_AD",
+        "AD":8,
+        "DEFENSE":5,
+        "AP":3,
+        "BUILDS": {
+            "TOP":"3004+3071+3111+3110+3035+3102",
+            "MID":"3004+3111+3035+3110+3156+3026",
+            "BOT_AD":"3004+3111+3110+3035+3071+3156"
+        }
+    },
+
+    "Varus": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"Mage",
+        "ROLE":"MID+BOT_AD",
+        "AD":7,
+        "DEFENSE":3,
+        "AP":4,
+        "BUILDS": {
+		    "MID":"3004+3158+3035+3142+3072+3139",
+            "BOT_AD":"3031+3046+3006+3035+3072+3026"
+        }
+    },
+
+    "Vayne": {
+        "PRIMARY":"Marksman",
+        "SECONDARY":"Assassin",
+        "ROLE":"BOT_AD",
+        "AD":10,
+        "DEFENSE":1,
+        "AP":1,
+        "BUILDS": {
+            "BOT_AD":"3153+3046+3006+3031+3035+3026"
+        }
+    },
+
+    "Veigar": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"N/A",
+        "ROLE":"MID",
+        "AD":2,
+        "DEFENSE":2,
+        "AP":10,
+        "BUILDS": {
+            "MID":"3174+3020+3089+3285+3157+3135"
+        }
+    },
+
+    "Vel'Koz": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"N/A",
+        "ROLE":"MID",
+        "AD":2,
+        "DEFENSE":2,
+        "AP":10,
+        "BUILDS": {
+            "MID":"3165+3285+3020+3089+3157+3116"
+        }
+    },
+
+    "Vi": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Assassin",
+        "ROLE":"JUNGLE+TOP",
+        "AD":8,
+        "DEFENSE":5,
+        "AP":3,
+        "BUILDS": {
+            "JUNGLE":"3707+3078+3111+3143+3102+3068",
+            "TOP":"3153+3071+3071+3143+3078+3075"
+        }
+    },
+
+    "Viktor": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"N/A",
+        "ROLE":"MID",
+        "AD":2,
+        "DEFENSE":4,
+        "AP":10,
+        "BUILDS": {
+            "MID":"3285+3020+3089+3135+3198+3157"
+        }
+    },
+
+    "Vladimir": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Tank",
+        "ROLE":"TOP+MID",
+        "AD":2,
+        "DEFENSE":6,
+        "AP":8,
+        "BUILDS": {
+            "TOP":"3152+3020+3157+3116+3089+3135",
+            "MID":"3152+3020+3157+3089+3135+3116"
+        }
+    },
+
+    "Volibear": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":7,
+        "DEFENSE":7,
+        "AP":4,
+        "BUILDS": {
+            "JUNGLE":"3117+3717+3800+3075+3065+3401",
+            "TOP":"3068+3111+3065+3143+3075+3083",
+            "BOT_SUPP":"2045+3401+3068+3190+3143+3111"
+        }
+    },
+
+    "Warwick": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":7,
+        "DEFENSE":4,
+        "AP":4,
+        "BUILDS": {
+            "JUNGLE":"3726+3117+3153+3143+3065+3110",
+            "TOP":"3153+3111+3065+3110+3102+3031"
+        }
+    },
+
+    "Wukong": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Tank",
+        "ROLE":"JUNGLE+TOP",
+        "AD":8,
+        "DEFENSE":5,
+        "AP":2,
+        "BUILDS": {
+            "JUNGLE":"3709+3071+3111+3143+3102+3026",
+            "TOP":"3074+3111+3071+3035+3143+3102"
+        }
+    },
+
+    "Xerath": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Assassin",
+        "ROLE":"MID",
+        "AD":1,
+        "DEFENSE":3,
+        "AP":10,
+        "BUILDS": {
+            "MID":"3165+3285+3020+3089+3135+3174"
+        }
+    },
+
+    "Xin Zhao": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Assassin",
+        "ROLE":"JUNGLE+TOP",
+        "AD":8,
+        "DEFENSE":6,
+        "AP":3,
+        "BUILDS": {
+            "JUNGLE":"3707+3117+3153+3068+3071+3072",
+            "TOP":"3153+3111+3071+3143+3075+3102"
+        }
+    },
+
+    "Yasuo": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Assassin",
+        "ROLE":"TOP+MID",
+        "AD":8,
+        "DEFENSE":4,
+        "AP":4,
+        "BUILDS": {
+            "TOP":"3087+3006+3031+3153+3035+3026",
+            "MID":"3087+3031+3006+3072+3035+3026"
+        }
+    },
+
+    "Yorick": {
+        "PRIMARY":"Fighter",
+        "SECONDARY":"Mage",
+        "ROLE":"TOP+MID",
+        "AD":6,
+        "DEFENSE":6,
+        "AP":6,
+        "BUILDS": {
+            "JUNGLE":"3706+3111+3025+3065+3508+3043",
+            "TOP":"3004+3111+3065+3025+3110+3146"
+        }
+    },
+
+    "Zac": {
+        "PRIMARY":"Tank",
+        "SECONDARY":"Fighter",
+        "ROLE":"JUNGLE+TOP",
+        "AD":3,
+        "DEFENSE":7,
+        "AP":7,
+        "BUILDS": {
+            "JUNGLE":"3725+3117+3065+3143+3083+3151",
+            "TOP":"3111+3068+3065+3083+3143+3151"
+        }
+    },
+
+    "Zed": {
+        "PRIMARY":"Assassin",
+        "SECONDARY":"Fighter",
+        "ROLE":"MID",
+        "AD":9,
+        "DEFENSE":2,
+        "AP":1,
+        "BUILDS": {
+            "MID":"3153+3142+3111+3035+3072+3156"
+        }
+    },
+
+    "Ziggs": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"N/A",
+        "ROLE":"MID",
+        "AD":2,
+        "DEFENSE":4,
+        "AP":9,
+        "BUILDS": {
+            "MID":"3174+3285+3020+3089+3135+3165"
+        }
+    },
+
+    "Zilean": {
+        "PRIMARY":"Support",
+        "SECONDARY":"Mage",
+        "ROLE":"MID+BOT_SUPP",
+        "AD":2,
+        "DEFENSE":5,
+        "AP":7,
+        "BUILDS": {
+            "MID":"3020+3174+3089+3165+3285+3135",
+            "BOT_SUPP":"2049+3158+3174+3285+3092+3003"
+        }
+    },
+
+    "Zyra": {
+        "PRIMARY":"Mage",
+        "SECONDARY":"Support",
+        "ROLE":"MID+BOT_SUPP",
+        "AD":4,
+        "DEFENSE":3,
+        "AP":8,
+        "BUILDS": {
+            "MID":"3020+3151+3116+3135+3089+3158",
+            "BOT_SUPP":"2049+3092+3020+3151+3116+3089"
+        }
+    }
+}

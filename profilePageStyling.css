@@ -1,0 +1,128 @@
+	tr.subTable {display: none;}
+	tr.header 
+	{
+    		display: table-row;
+    		cursor:pointer;
+	}
+	h1,h3 {color:white;}
+	a {
+		color: white;
+		text-decoration: none;
+	}
+        table{
+            //table-layout: fixed;
+            font: 12px Helvetica;
+            color: white;
+            //margin:0px;padding:0px;
+	    width:800px;
+	    //box-shadow: 10px 10px 5px #888888;
+	    border-collapse: collapse;
+	    //border-radius: 5px;
+	    
+        }
+      
+        .bg-img 
+        {
+            width: 100%;
+            height: 100%;
+            background: url('https://dl.dropboxusercontent.com/u/5049340/office%402x.png') center center no-repeat;
+            background-size: cover;
+  
+            &:before {
+                content: '';
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		background-image: linear-gradient(to bottom right,#002f4b,#dc4225);
+		opacity: .6; 
+            }
+        }
+        
+        td {
+            line-height: 0;
+            height: 30px;
+        }
+         
+        tr{
+            
+            background: #1B1B1B;
+            //border-bottom: 0px solid black;
+            border-bottom: 4px solid black;
+            
+        }
+        table tr:nth-child(odd) {
+	     background: #222222;
+	     
+	}
+
+        td{
+            text-align: center;
+			
+        }
+	
+	th {
+	    background-color: #003380;
+	}
+	
+	.ver2 th {
+	    background-color: #3D003D;
+	}
+	
+	 #HeaderText
+        {
+           // text-align: left;
+            //margin: 0 auto;
+            width: 300px; 
+            
+            font: 24px copperplate;
+ 	    background: -webkit-linear-gradient(top, #fefcea 2%, #f1da36 68%);/*chrome and safari*/
+ 	    background: -o-linear-gradient(top, #fefcea 2%,#f1da36 68%);/*Opera*/
+ 	    background: -ms-linear-gradient(top, #fefcea 2%,#f1da36 68%);/*IE10*/
+ 	    background: linear-gradient(to bottom, #fefcea 2%,#f1da36 68%);/*W3c*/
+ 	    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=0 );/*IE6-9*/
+  	    -webkit-background-clip: text;
+ 	    -webkit-text-fill-color: transparent;
+
+            /*color:#000000;
+            font: 16px copperplate;*/
+            font-weight: bold;
+        }
+        #Title
+        {
+            text-align: center;
+            font: 70px copperplate;
+            text-shadow: 0px 1px 0px #f1da36, 0px 2px 0px #f1da36, 0px 3px 0px #f1da20, 0px 4px 0px #f1da00, 0px 5px 0px #fffcea, 0px 6px 0px #fefcaa, 0px 7px 0px #fefaaa, 0px 8px 7px #fffa00;
+            background: -webkit-linear-gradient(top, #fefcea 2%, f1da36 68%);
+            background: -o-linear-gradient(top, #fefcea 2%,#f1da36 68%);/*Opera*/
+ 	    background: -ms-linear-gradient(top, #fefcea 2%,#f1da36 68%);/*IE10*/
+ 	    background: linear-gradient(to bottom, #fefcea 2%,#f1da36 68%);/*W3c*/
+ 	    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=0 );/*IE6-9*/
+  	    -webkit-background-clip: text;
+ 	    -webkit-text-fill-color: transparent;
+        }
+	
+	
+        body {
+            background-image: url("simple_dashed.png");
+        }
+        
+        
+#summSp1{
+    position: relative;
+    top:-25px;
+    width:25px;
+    height:23px;
+    color:black;
+}
+
+#summSp2{
+    position: relative;
+    //top:5px;
+    right:30px;
+    width:25px;
+    height:23px;
+    color:black;
+}
+        

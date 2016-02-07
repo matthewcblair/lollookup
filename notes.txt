@@ -1,0 +1,16 @@
+6/9 : Matthew
+    : Added championInformation.txt
+    * One large JSON object that lists all champions and their general information to be used for game analysis
+    * Lists a given champions reliance on AP, AD, and Tank stats
+    * Lists a given champion's preferred role(s)
+    * If a champion has multiple preferred roles, they are listed by priority (NOT by most likely role)
+        * Think we should do it this way because we can solve which champion goes where algorithmically
+        * e.g. Nunu: "JUNGLE+TOP+BOT_SUPP"  ==> Nunu can be viably played Jungle, Top, or Support
+        * 1.) If the corresponding Summoner has chosen Smite, then Nunu is being played Jungle
+        * 2.) Else if the corresponding Summoner has chosen Teleport, then Nunu is being played Top
+        * 3.) Else Nunu is being played Support
+
+    : Added an "UNRANKED" tier icon for Summoners that are not currently ranked (this season)
+    * If a summoner is currently unranked, the "unranked" icon will be displayed, followed by "UNRANKED"
+    
+    : A few of the Champion Icons didn't make it through and it looks like it's the ones with a " " or "'" in their name.
